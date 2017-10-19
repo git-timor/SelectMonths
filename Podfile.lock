@@ -1,0 +1,15 @@
+PODS:
+  - BFKit (1.4.0)
+  - MJPopupViewController (0.4)
+
+DEPENDENCIES:
+  - BFKit (~> 1.4.0)
+  - MJPopupViewController (~> 0.4)
+
+SPEC CHECKSUMS:
+  BFKit: 765dd4f24c665d03e08879a131956f6c61531a52
+  MJPopupViewController: e9ad553a3145eb8126ba2748e872ae7fb25cc605
+
+PODFILE CHECKSUM: bc2b4e87a773da0f354465d9bb11ded991ede129
+
+COCOAPODS: 1.4.0.beta.1
